@@ -15,17 +15,17 @@ const BiodataPage = () => {
           <h2 className="profile-name">Denta Adi Ramadhani</h2>
           <p className="profile-nim">NIM: 24090111</p>
           <p className="profile-prodi">D-4 Teknik Informatika</p>
-          <p className="profile-kampus">Universitas Politeknik Harapan Bersama</p>
+          <p className="profile-kampus">Universitas Harkat Negeri</p>
 
           <div className="profile-contacts">
-            <a href="mailto:denta@example.com" className="contact-chip">
-              <Mail size={14} /> denta@example.com
+            <a href="mailto:dentaadiramadhani@gmail.com" className="contact-chip">
+              <Mail size={14} /> dentaadiramadhani0@gmail.com
             </a>
             <span className="contact-chip">
-              <MapPin size={14} /> Tegal, Jawa Tengah
+              <MapPin size={14} /> Brebes, Jawa Tengah
             </span>
             <span className="contact-chip">
-              <Phone size={14} /> 08xx-xxxx-xxxx
+              <Phone size={14} /> 089658059970
             </span>
           </div>
 
@@ -46,7 +46,7 @@ const BiodataPage = () => {
               <div className="detail-item"><span>Fakultas</span><strong>Sekolah Vokasi</strong></div>
               <div className="detail-item"><span>Angkatan</span><strong>2024</strong></div>
               <div className="detail-item"><span>Status</span><strong>Aktif</strong></div>
-              <div className="detail-item"><span>Kampus</span><strong>Kampus Mataram – Jalan Mataram No.9, Kota Tegal</strong></div>
+              <div className="detail-item"><span>Lokasi</span><strong>Kampus Mataram – Jalan Mataram No.9, Kota Tegal</strong></div>
             </div>
           </div>
 
