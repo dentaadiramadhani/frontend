@@ -83,8 +83,8 @@ const BiodataPage = () => {
             </p>
             <div className="repo-link">
               <Github size={16} />
-              <a href="https://github.com/username/event-management" target="_blank" rel="noopener noreferrer">
-                github.com/username/event-management
+              <a href="https://github.com/dentaadiramadhani" target="_blank" rel="noopener noreferrer">
+                github.com/dentaadiramadhani
               </a>
             </div>
           </div>
