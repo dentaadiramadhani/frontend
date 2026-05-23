@@ -87,7 +87,7 @@ const LoginPage = () => {
         </form>
 
         <p className="login-hint">
-          Login dengan: NIM <strong>24090111</strong> / Password <strong>24090111</strong>
+          Login dengan: NIM <strong>24090111</strong> / Password <strong>password123</strong>
         </p>
       </div>
     </div>
