@@ -43,7 +43,7 @@ Dibuat menggunakan React 18 + TypeScript + Vite + Zustand
 | Field | Value |
 |---|---|
 | NIM | 24090111 |
-| Password | 24090111 |
+| Password | password123 |
 
 ---
 
